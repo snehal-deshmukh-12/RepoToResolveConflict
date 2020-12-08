@@ -1,4 +1,3 @@
-
 public class Student 
 {
 	String name;
@@ -14,7 +13,11 @@ public class Student
 		return name;
 	}
 	public void setName(String name) {
+<<<<<<< HEAD
 		this.name = name
+=======
+		this.name = name;//Returns Name
+>>>>>>> 3b438fc547d44b7db794d4e7e3e1d921fc576519
 	}
 	public int getAge() {
 		return age;
