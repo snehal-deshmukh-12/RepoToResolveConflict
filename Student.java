@@ -1,4 +1,3 @@
-
 public class Student 
 {
 	String name;
@@ -14,7 +13,7 @@ public class Student
 		return name;
 	}
 	public void setName(String name) {
-		this.name = name;
+		this.name = name;//Returns Name
 	}
 	public int getAge() {
 		return age;
